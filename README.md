@@ -27,4 +27,4 @@ The documents are organized into three distinct business scenarios designed to t
 ---
 ## Usage
 
-This repository is intended to be used as a data source for the main interactive demo. The Colab notebook in the primary project repository will automatically clone these assets into its environment upon execution. No manual download is required.
+This repository is intended to be used as a data source for the main interactive demo. The prototype in the primary project repository will automatically clone these assets into its environment upon execution. No manual download is required.
